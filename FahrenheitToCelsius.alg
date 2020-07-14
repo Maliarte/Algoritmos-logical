@@ -1,4 +1,4 @@
-algoritmo "semnome"
+algoritmo "FahToCel"
 // Funcao :Escreva um algoritmo para ler uma temperatura em graus Fahrenheit,
 //calcule e escreva o valor correspondente em graus Celsius (baseado na
 //formula abaixo):
